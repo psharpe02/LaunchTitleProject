@@ -1239,3 +1239,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.31-12.30.17:866][441]PIE: Server logged in
 [2022.01.31-12.30.17:866][441]PIE: Play in editor total start time 0.18 seconds.
 [2022.01.31-12.30.17:876][441]LogAudio: Warning: Detected orphaned looping sound 'CreepyMusic'.
+[2022.01.31-12.36.27:771][321]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2022.01.31-12.36.27:775][321]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2022.01.31-12.36.27:779][321]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.31-12.36.27:779][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.31-12.36.27:833][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.31-12.36.27:833][321]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.31-12.36.27:833][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.31-12.36.28:762][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.31-12.36.28:763][420]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting
+[2022.01.31-12.36.28:764][420]LogWorld: UWorld::CleanupWorld for LevelTesting, bSessionEnded=true, bCleanupResources=true
+[2022.01.31-12.36.28:768][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.31-12.36.28:772][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.31-12.36.28:783][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.31-12.36.28:798][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.31-12.36.28:807][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.31-12.36.28:808][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.31-12.36.28:848][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.01.31-12.36.28:865][421]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.01.31-12.36.30:191][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.01.31-12.36.31:037][572]LogSlate: Window 'Save Content' being destroyed
+[2022.01.31-12.36.31:187][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.01.31-12.36.31:226][572]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/FirstPersonCharacterD9AA343848968309ACE2EFAAA597D147.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.01.31-12.36.31:227][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/ItemParent" FILE="../../../../LaunchTitleProject/Content/Items/ItemParent.uasset" SILENT=true
+[2022.01.31-12.36.31:242][572]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/ItemParent3BCA724942890E9233515F937291530F.tmp' to '../../../../LaunchTitleProject/Content/Items/ItemParent.uasset'
+[2022.01.31-12.36.31:244][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/LevelTesting" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/LevelTesting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.31-12.36.31:257][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.31-12.36.31:715][572]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/LevelTestingE4CA02FF421FBE29FC9FF3B7F71FB891.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/LevelTesting.umap'
+[2022.01.31-12.36.31:723][572]LogFileHelpers: Saving map 'LevelTesting' took 0.479
+[2022.01.31-12.36.31:736][572]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.31-12.36.31:736][572]LogContentValidation: Display: Validating Blueprint /Game/Items/ItemParent.ItemParent
+[2022.01.31-12.36.31:736][572]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.31-12.36.31:736][572]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/LevelTesting.LevelTesting
