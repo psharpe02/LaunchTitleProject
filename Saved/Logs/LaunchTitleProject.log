@@ -1475,3 +1475,235 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.31-11.27.24:867][595]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Torch.Torch
 [2022.01.31-11.28.11:077][393]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
 [2022.01.31-11.28.11:601][394]LogSlate: Took 0.004254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.31-11.29.30:967][133]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.31-11.29.31:008][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.01.31-11.29.31:092][133]LogSlate: Took 0.009481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.31-11.29.53:519][388]LogRenderer: Reallocating scene render targets to support 1152x692 Format 10 NumSamples 1 (Frame:1).
+[2022.01.31-11.30.42:404][649]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.31-11.30.42:446][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.01.31-11.30.51:834][670]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2022.01.31-11.30.51:838][670]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2022.01.31-11.30.51:842][670]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.01.31-11.30.51:842][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.31-11.30.59:452][534]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2022.01.31-11.30.59:462][534]LogContentBrowser: Creating deferred item: NewInterface
+[2022.01.31-11.31.06:634][394]LogContentBrowser: Attempting asset rename: NewInterface -> Interact_Interface
+[2022.01.31-11.31.06:698][394]LogContentBrowser: End creating deferred item NewInterface
+[2022.01.31-11.31.11:828][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.01.31-11.31.12:639][990]LogSlate: Window 'Save Content' being destroyed
+[2022.01.31-11.31.12:723][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.01.31-11.31.12:751][990]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/FirstPersonCharacterDCB04ED948842F5DA56A0DADAFA5BD5C.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.01.31-11.31.12:752][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Interact_Interface" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/Interact_Interface.uasset" SILENT=true
+[2022.01.31-11.31.12:753][990]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/Interact_Interface5B709ABE48B1670DE78DE481E977F85F.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/Interact_Interface.uasset'
+[2022.01.31-11.31.12:859][990]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.31-11.31.12:859][990]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.31-11.31.12:859][990]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Interact_Interface.Interact_Interface
+[2022.01.31-11.31.24:065][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Interact_Interface.Interact_Interface
+[2022.01.31-11.31.37:023][840]BlueprintLog: New page: Compile Interact_Interface
+[2022.01.31-11.31.37:038][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.01.31-11.31.51:875][578]LogSlate: Took 0.005688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.01.31-11.32.39:607][103]BlueprintLog: New page: Compile Interact_Interface
+[2022.01.31-11.32.39:625][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.01.31-11.33.07:370][848]BlueprintLog: New page: Compile Interact_Interface
+[2022.01.31-11.33.07:388][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.01.31-11.33.07:393][848]BlueprintLog: New page: Compile Interact_Interface
+[2022.01.31-11.33.07:411][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.01.31-11.33.08:275][942]LogSlate: Window 'Interact_Interface' being destroyed
+[2022.01.31-11.33.08:280][942]LogSlate: Window 'Interact_Interface' being destroyed
+[2022.01.31-11.33.08:282][942]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.01.31-11.33.08:282][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.31-11.33.09:704][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.01.31-11.33.10:726][105]LogSlate: Window 'Save Content' being destroyed
+[2022.01.31-11.33.10:796][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Interact_Interface" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/Interact_Interface.uasset" SILENT=true
+[2022.01.31-11.33.10:799][105]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/Interact_Interface7495E6444A37D2149B3694BE58B7E650.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/Interact_Interface.uasset'
+[2022.01.31-11.33.10:812][105]AssetCheck: New page: Asset Save: Interact_Interface
+[2022.01.31-11.33.10:812][105]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Interact_Interface.Interact_Interface
+[2022.01.31-11.33.21:491][227]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.31-11.33.21:499][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.31-11.33.21:499][227]PIE: New page: PIE session: LevelTesting (31 Jan 2022, 11:33:21)
+[2022.01.31-11.33.21:501][227]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.31-11.33.21:502][227]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.31-11.33.21:502][227]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting
+[2022.01.31-11.33.21:603][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100390s)
+[2022.01.31-11.33.21:604][227]LogAIModule: Creating AISystem for world LevelTesting
+[2022.01.31-11.33.21:604][227]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2022.01.31-11.33.21:604][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/LevelTesting.LevelTesting to /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting.LevelTesting (0.102139s)
+[2022.01.31-11.33.21:619][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.01.31-11.33.21:621][227]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.31-11.33.21:621][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.31-11.33.21:621][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.31-11.33.21:621][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.31-11.33.21:621][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.31-11.33.21:621][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.31-11.33.21:621][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.31-11.33.21:621][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.31-11.33.21:621][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.31-11.33.21:621][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.31-11.33.21:621][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.31-11.33.21:621][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.31-11.33.21:621][227]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.31-11.33.21:625][227]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.31-11.33.21:625][227]LogAudioMixer: Display: 1: FrontRight
+[2022.01.31-11.33.21:633][227]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.01.31-11.33.21:633][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.31-11.33.21:633][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.31-11.33.21:633][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.31-11.33.21:634][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.31-11.33.21:634][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.31-11.33.21:634][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.31-11.33.21:634][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.31-11.33.21:634][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.31-11.33.21:634][227]LogInit: FAudioDevice initialized.
+[2022.01.31-11.33.21:634][227]LogAudio: Display: Audio Device (ID: 2) registered with world 'LevelTesting'.
+[2022.01.31-11.33.21:650][227]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.01.31-11.33.21:661][227]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting.LevelTesting up for play (max tick rate 0) at 2022.01.31-11.33.21
+[2022.01.31-11.33.21:662][227]LogWorld: Bringing up level for play took: 0.011399
+[2022.01.31-11.33.21:662][227]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.01.31-11.33.21:666][227]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.01.31-11.33.21:669][227]PIE: Server logged in
+[2022.01.31-11.33.21:670][227]PIE: Play in editor total start time 0.172 seconds.
+[2022.01.31-11.33.21:679][227]LogAudio: Warning: Detected orphaned looping sound 'CreepyMusic'.
+[2022.01.31-11.33.56:169][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.31-11.33.56:169][316]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting
+[2022.01.31-11.33.56:170][316]LogWorld: UWorld::CleanupWorld for LevelTesting, bSessionEnded=true, bCleanupResources=true
+[2022.01.31-11.33.56:173][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.31-11.33.56:179][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.31-11.33.56:185][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.31-11.33.56:207][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.31-11.33.56:208][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.31-11.33.56:209][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.31-11.33.56:268][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.01.31-11.33.56:283][317]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.01.31-11.34.56:447][ 97]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.31-11.34.56:459][ 97]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.31-11.35.03:444][659]LogContentBrowser: Attempting asset rename: NewFolder -> Items
+[2022.01.31-11.35.03:444][659]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.31-11.35.55:663][860]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.31-11.35.58:525][860]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.31-11.35.58:535][860]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.31-11.35.58:544][860]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.31-11.36.01:938][267]LogContentBrowser: Attempting asset rename: NewBlueprint -> ItemParent
+[2022.01.31-11.36.01:995][267]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.31-11.36.04:276][539]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Items/ItemParent.ItemParent
+[2022.01.31-11.36.06:851][773]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.31-11.36.06:871][773]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.31-11.37.20:522][ 84]BlueprintLog: New page: Compile ItemParent
+[2022.01.31-11.37.20:584][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.01.31-11.37.20:590][ 84]BlueprintLog: New page: Compile ItemParent
+[2022.01.31-11.37.20:624][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.01.31-11.37.45:579][704]BlueprintLog: New page: Compile ItemParent
+[2022.01.31-11.37.45:607][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.01.31-11.37.46:104][760]LogSlate: Window 'ItemParent' being destroyed
+[2022.01.31-11.37.46:109][760]LogSlate: Window 'ItemParent' being destroyed
+[2022.01.31-11.37.46:147][760]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.01.31-11.37.46:147][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.31-11.37.54:720][758]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.31-11.38.11:897][633]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.31-11.38.11:940][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.01.31-11.39.48:947][759]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.31-11.39.48:992][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.01.31-11.40.14:023][909]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2022.01.31-11.40.14:024][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/LevelTesting' took 0.025
+[2022.01.31-11.40.14:030][909]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([2] browsable assets)...
+[2022.01.31-11.40.14:038][909]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2022.01.31-11.40.14:038][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2022.01.31-11.40.14:075][909]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/FirstPersonCharacter_Auto113781005425B4D0862B5418BD4EA3D67.tmp' to '../../../../LaunchTitleProject/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2022.01.31-11.40.14:076][909]LogFileHelpers: Auto-saving content packages took 0.051
+[2022.01.31-11.40.46:815][331]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.31-11.40.46:836][331]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.31-11.41.30:153][ 49]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.31-11.41.30:197][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.01.31-11.42.55:245][ 81]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.31-11.42.55:291][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.01.31-11.43.09:554][628]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.31-11.43.09:600][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.01.31-11.43.11:044][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.01.31-11.43.11:081][770]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/FirstPersonCharacterB6D1CD724C44A9FA0217D8AD5E97D5A6.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.01.31-11.43.11:095][770]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.01.31-11.43.11:095][770]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.31-11.44.28:093][732]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.31-11.44.28:141][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.01.31-11.44.39:893][266]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.31-11.44.39:942][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: 00000145AF15C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D1AEF85-45AF-C7E5-35AE-D68D718FB2AD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=403d66904434be6135d0a399c430c106%7C51e0b40fad9a4f298c7ddae697149f7a%7Cc8afad19-f33d-4620-a7a9-ef17512d1c35&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: 00000145AF15C100: request failed, libcurl error: 0 (No error)
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: 00000145AF15C100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x14502a63eb0 [can pipeline])
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: 00000145AF15C100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: 00000145AF15C100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.194.62.213) port 443 (#0))
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: 00000145AF15C100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: 00000145AF15C100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: 00000145AF15C100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: 00000145AF15C100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: 00000145AF15C100: libcurl info message cache 7 (Closing connection 0)
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: 00000145AF15C100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.01.31-11.45.00:189][666]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D1AEF85-45AF-C7E5-35AE-D68D718FB2AD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=403d66904434be6135d0a399c430c106%7C51e0b40fad9a4f298c7ddae697149f7a%7Cc8afad19-f33d-4620-a7a9-ef17512d1c35&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.31-11.45.07:290][838]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.31-11.45.07:336][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.01.31-11.46.06:228][510]LogHttp: Warning: 0000014586BE4100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D1AEF85-45AF-C7E5-35AE-D68D718FB2AD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=403d66904434be6135d0a399c430c106%7C51e0b40fad9a4f298c7ddae697149f7a%7Cc8afad19-f33d-4620-a7a9-ef17512d1c35&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.31-11.46.06:228][510]LogHttp: Warning: 0000014586BE4100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.31-11.46.06:228][510]LogHttp: Warning: 0000014586BE4100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.31-11.46.06:228][510]LogHttp: Warning: 0000014586BE4100: libcurl info message cache 1 (Closing connection 1)
+[2022.01.31-11.46.06:228][510]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D1AEF85-45AF-C7E5-35AE-D68D718FB2AD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=403d66904434be6135d0a399c430c106%7C51e0b40fad9a4f298c7ddae697149f7a%7Cc8afad19-f33d-4620-a7a9-ef17512d1c35&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.31-11.46.56:616][599]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.31-11.46.56:621][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.31-11.46.56:622][599]PIE: New page: PIE session: LevelTesting (31 Jan 2022, 11:46:56)
+[2022.01.31-11.46.56:652][599]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting
+[2022.01.31-11.46.56:766][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113557s)
+[2022.01.31-11.46.56:767][599]LogAIModule: Creating AISystem for world LevelTesting
+[2022.01.31-11.46.56:768][599]LogPlayLevel: PIE: World Init took: (0.001793s)
+[2022.01.31-11.46.56:768][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/LevelTesting.LevelTesting to /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting.LevelTesting (0.115701s)
+[2022.01.31-11.46.56:788][599]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.01.31-11.46.56:791][599]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.31-11.46.56:791][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.31-11.46.56:791][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.31-11.46.56:791][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.31-11.46.56:791][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.31-11.46.56:791][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.31-11.46.56:791][599]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.31-11.46.56:791][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.31-11.46.56:791][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.31-11.46.56:791][599]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.31-11.46.56:791][599]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.31-11.46.56:791][599]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.31-11.46.56:791][599]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.31-11.46.56:795][599]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.31-11.46.56:795][599]LogAudioMixer: Display: 1: FrontRight
+[2022.01.31-11.46.56:803][599]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.01.31-11.46.56:803][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.31-11.46.56:803][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.31-11.46.56:803][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.31-11.46.56:804][599]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.31-11.46.56:804][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.31-11.46.56:804][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.31-11.46.56:805][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.31-11.46.56:805][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.31-11.46.56:805][599]LogInit: FAudioDevice initialized.
+[2022.01.31-11.46.56:805][599]LogAudio: Display: Audio Device (ID: 3) registered with world 'LevelTesting'.
+[2022.01.31-11.46.56:812][599]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.01.31-11.46.56:829][599]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting.LevelTesting up for play (max tick rate 0) at 2022.01.31-11.46.56
+[2022.01.31-11.46.56:830][599]LogWorld: Bringing up level for play took: 0.017768
+[2022.01.31-11.46.56:830][599]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.01.31-11.46.56:835][599]PIE: Server logged in
+[2022.01.31-11.46.56:836][599]PIE: Play in editor total start time 0.215 seconds.
+[2022.01.31-11.46.56:844][599]LogAudio: Warning: Detected orphaned looping sound 'CreepyMusic'.
+[2022.01.31-11.47.06:794][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.31-11.47.06:794][783]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting
+[2022.01.31-11.47.06:795][783]LogWorld: UWorld::CleanupWorld for LevelTesting, bSessionEnded=true, bCleanupResources=true
+[2022.01.31-11.47.06:799][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.31-11.47.06:809][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.31-11.47.06:814][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.31-11.47.06:836][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.31-11.47.06:836][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.31-11.47.06:837][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.31-11.47.06:839][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.31-11.47.06:849][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.01.31-11.47.06:865][784]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.01.31-11.47.49:155][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.01.31-11.47.50:290][109]LogSlate: Window 'Save Content' being destroyed
+[2022.01.31-11.47.50:446][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.01.31-11.47.50:486][109]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/FirstPersonCharacter2F8408BB47209BEA32A71FB62893DC3B.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.01.31-11.47.50:487][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/ItemParent" FILE="../../../../LaunchTitleProject/Content/Items/ItemParent.uasset" SILENT=true
+[2022.01.31-11.47.50:489][109]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/ItemParent4B4D299C4C47F7437CD39AA89E106303.tmp' to '../../../../LaunchTitleProject/Content/Items/ItemParent.uasset'
+[2022.01.31-11.47.50:594][109]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.31-11.47.50:594][109]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.31-11.47.50:594][109]LogContentValidation: Display: Validating Blueprint /Game/Items/ItemParent.ItemParent
