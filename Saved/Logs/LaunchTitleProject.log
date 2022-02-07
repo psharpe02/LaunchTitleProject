@@ -2087,3 +2087,143 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.07-11.07.27:441][138]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/ScriptTest.ScriptTest
 [2022.02.07-11.07.27:441][138]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/ScriptTest_BuiltData.ScriptTest_BuiltData
 [2022.02.07-11.07.28:329][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.07-11.09.02:050][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.02.07-11.09.02:238][799]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/LevelTesting.LevelTesting
+[2022.02.07-11.09.02:238][799]Cmd: MAP LOAD FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/LevelTesting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.07-11.09.02:238][799]LightingResults: New page: Lighting Build
+[2022.02.07-11.09.02:238][799]LoadErrors: New page: Loading map: LevelTesting.umap
+[2022.02.07-11.09.02:272][799]LogWorld: UWorld::CleanupWorld for ScriptTest, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-11.09.02:272][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-11.09.02:273][799]MapCheck: New page: Map Check
+[2022.02.07-11.09.02:273][799]LightingResults: New page: Lighting Build
+[2022.02.07-11.09.02:298][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.07-11.09.02:307][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.02.07-11.09.02:309][799]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTesting'.
+[2022.02.07-11.09.02:546][799]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.07-11.09.02:546][799]LogAIModule: Creating AISystem for world LevelTesting
+[2022.02.07-11.09.02:584][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.02.07-11.09.02:587][799]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.07-11.09.02:587][799]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2022.02.07-11.09.02:587][799]LogFileHelpers: Loading map 'LevelTesting' took 0.349
+[2022.02.07-11.09.34:846][343]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-11.09.34:850][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-11.09.34:851][343]PIE: New page: PIE session: LevelTesting (7 Feb 2022, 11:09:34)
+[2022.02.07-11.09.34:871][343]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting
+[2022.02.07-11.09.34:974][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102382s)
+[2022.02.07-11.09.34:975][343]LogAIModule: Creating AISystem for world LevelTesting
+[2022.02.07-11.09.34:975][343]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2022.02.07-11.09.34:975][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/LevelTesting.LevelTesting to /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting.LevelTesting (0.103729s)
+[2022.02.07-11.09.35:006][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.02.07-11.09.35:010][343]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.02.07-11.09.35:010][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-11.09.35:010][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-11.09.35:010][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-11.09.35:010][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-11.09.35:010][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-11.09.35:010][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-11.09.35:010][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-11.09.35:010][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-11.09.35:011][343]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.07-11.09.35:011][343]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.07-11.09.35:011][343]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.07-11.09.35:011][343]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-11.09.35:015][343]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-11.09.35:015][343]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-11.09.35:025][343]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.02.07-11.09.35:025][343]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-11.09.35:025][343]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-11.09.35:025][343]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-11.09.35:026][343]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-11.09.35:026][343]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-11.09.35:026][343]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-11.09.35:026][343]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-11.09.35:026][343]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-11.09.35:027][343]LogInit: FAudioDevice initialized.
+[2022.02.07-11.09.35:027][343]LogAudio: Display: Audio Device (ID: 16) registered with world 'LevelTesting'.
+[2022.02.07-11.09.35:035][343]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.07-11.09.35:046][343]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting.LevelTesting up for play (max tick rate 0) at 2022.02.07-11.09.35
+[2022.02.07-11.09.35:047][343]LogWorld: Bringing up level for play took: 0.011250
+[2022.02.07-11.09.35:047][343]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.02.07-11.09.35:050][343]PIE: Server logged in
+[2022.02.07-11.09.35:051][343]PIE: Play in editor total start time 0.2 seconds.
+[2022.02.07-11.09.35:061][343]LogAudio: Warning: Detected orphaned looping sound 'CreepyMusic'.
+[2022.02.07-11.10.26:101][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-11.10.26:101][454]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting
+[2022.02.07-11.10.26:102][454]LogWorld: UWorld::CleanupWorld for LevelTesting, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-11.10.26:105][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-11.10.26:117][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-11.10.26:129][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-11.10.26:155][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.07-11.10.26:155][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-11.10.26:156][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-11.10.26:158][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-11.10.26:170][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.02.07-11.10.26:199][455]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.02.07-11.10.40:683][724]BlueprintLog: New page: Compile ThrownBoxJumpScare
+[2022.02.07-11.10.40:737][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.02.07-11.10.41:149][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThrownBoxJumpScare" FILE="../../../../LaunchTitleProject/Content/Blueprints/ThrownBoxJumpScare.uasset" SILENT=true
+[2022.02.07-11.10.41:160][748]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/ThrownBoxJumpScare48DD69C54E2F20A8EE2D0DBFCF3C145D.tmp' to '../../../../LaunchTitleProject/Content/Blueprints/ThrownBoxJumpScare.uasset'
+[2022.02.07-11.10.41:171][748]AssetCheck: New page: Asset Save: ThrownBoxJumpScare
+[2022.02.07-11.10.41:171][748]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThrownBoxJumpScare.ThrownBoxJumpScare
+[2022.02.07-11.10.42:721][905]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-11.10.42:726][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-11.10.42:726][905]PIE: New page: PIE session: LevelTesting (7 Feb 2022, 11:10:42)
+[2022.02.07-11.10.42:751][905]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting
+[2022.02.07-11.10.42:851][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100365s)
+[2022.02.07-11.10.42:852][905]LogAIModule: Creating AISystem for world LevelTesting
+[2022.02.07-11.10.42:852][905]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2022.02.07-11.10.42:853][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/LevelTesting.LevelTesting to /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting.LevelTesting (0.101979s)
+[2022.02.07-11.10.42:879][905]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.02.07-11.10.42:881][905]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.02.07-11.10.42:881][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-11.10.42:881][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-11.10.42:881][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-11.10.42:881][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-11.10.42:881][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-11.10.42:881][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-11.10.42:881][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-11.10.42:881][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-11.10.42:881][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.07-11.10.42:881][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.07-11.10.42:881][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.07-11.10.42:881][905]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-11.10.42:885][905]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-11.10.42:885][905]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-11.10.42:894][905]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.02.07-11.10.42:894][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-11.10.42:894][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-11.10.42:894][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-11.10.42:895][905]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-11.10.42:895][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-11.10.42:895][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-11.10.42:896][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-11.10.42:896][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-11.10.42:896][905]LogInit: FAudioDevice initialized.
+[2022.02.07-11.10.42:896][905]LogAudio: Display: Audio Device (ID: 17) registered with world 'LevelTesting'.
+[2022.02.07-11.10.42:905][905]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.07-11.10.42:916][905]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting.LevelTesting up for play (max tick rate 0) at 2022.02.07-11.10.42
+[2022.02.07-11.10.42:917][905]LogWorld: Bringing up level for play took: 0.010943
+[2022.02.07-11.10.42:917][905]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.02.07-11.10.42:920][905]PIE: Server logged in
+[2022.02.07-11.10.42:921][905]PIE: Play in editor total start time 0.195 seconds.
+[2022.02.07-11.10.42:932][905]LogAudio: Warning: Detected orphaned looping sound 'CreepyMusic'.
+[2022.02.07-11.10.56:361][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-11.10.56:361][507]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_LevelTesting
+[2022.02.07-11.10.56:362][507]LogWorld: UWorld::CleanupWorld for LevelTesting, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-11.10.56:365][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-11.10.56:371][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-11.10.56:383][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-11.10.56:407][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.07-11.10.56:408][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-11.10.56:409][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-11.10.56:411][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-11.10.56:423][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.02.07-11.10.56:448][508]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.02.07-11.11.10:077][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.02.07-11.11.10:851][122]LogSlate: Window 'Save Content' being destroyed
+[2022.02.07-11.11.10:930][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/LevelTesting" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/LevelTesting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.07-11.11.10:954][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.02.07-11.11.11:391][122]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/LevelTesting1ECC5AA943FB4CF5168F03BC89D4A0D3.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/LevelTesting.umap'
+[2022.02.07-11.11.11:398][122]LogFileHelpers: Saving map 'LevelTesting' took 0.469
+[2022.02.07-11.11.11:408][122]AssetCheck: New page: Asset Save: LevelTesting
+[2022.02.07-11.11.11:408][122]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/LevelTesting.LevelTesting
