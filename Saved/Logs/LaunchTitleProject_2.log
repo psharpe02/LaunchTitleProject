@@ -1942,3 +1942,175 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.13-22.15.07:622][822]Cmd: MAP CHECKDEP NOCLEARLOG
 [2022.02.13-22.15.07:623][822]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.655ms to complete.
 [2022.02.13-22.15.07:623][822]LogFileHelpers: Loading map 'LevelTesting' took 0.556
+[2022.02.13-22.17.56:614][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.02.13-22.17.56:671][475]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/ScriptTest.ScriptTest
+[2022.02.13-22.17.56:672][475]Cmd: MAP LOAD FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/ScriptTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-22.17.56:672][475]LightingResults: New page: Lighting Build
+[2022.02.13-22.17.56:672][475]LoadErrors: New page: Loading map: ScriptTest.umap
+[2022.02.13-22.17.56:723][475]LogWorld: UWorld::CleanupWorld for LevelTesting, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-22.17.56:724][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-22.17.56:725][475]MapCheck: New page: Map Check
+[2022.02.13-22.17.56:725][475]LightingResults: New page: Lighting Build
+[2022.02.13-22.17.56:770][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-22.17.56:804][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.02.13-22.17.56:805][475]LogAudio: Display: Audio Device (ID: 1) registered with world 'ScriptTest'.
+[2022.02.13-22.17.56:962][475]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-22.17.56:962][475]LogAIModule: Creating AISystem for world ScriptTest
+[2022.02.13-22.17.57:011][475]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2022.02.13-22.17.57:015][475]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-22.17.57:016][475]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.251ms to complete.
+[2022.02.13-22.17.57:016][475]LogFileHelpers: Loading map 'ScriptTest' took 0.344
+[2022.02.13-22.18.47:033][505]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.13-22.18.47:042][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.13-22.18.47:042][505]PIE: New page: PIE session: ScriptTest (13 Feb 2022, 22:18:47)
+[2022.02.13-22.18.47:043][505]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest
+[2022.02.13-22.18.47:048][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005956s)
+[2022.02.13-22.18.47:049][505]LogAIModule: Creating AISystem for world ScriptTest
+[2022.02.13-22.18.47:050][505]LogPlayLevel: PIE: World Init took: (0.001800s)
+[2022.02.13-22.18.47:050][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/ScriptTest.ScriptTest to /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest.ScriptTest (0.007973s)
+[2022.02.13-22.18.47:089][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.02.13-22.18.47:091][505]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.02.13-22.18.47:091][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.13-22.18.47:091][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.13-22.18.47:091][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.13-22.18.47:091][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.13-22.18.47:091][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.13-22.18.47:091][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.13-22.18.47:091][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.13-22.18.47:091][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.13-22.18.47:092][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.13-22.18.47:092][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.13-22.18.47:092][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.13-22.18.47:092][505]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.13-22.18.47:101][505]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.13-22.18.47:101][505]LogAudioMixer: Display: 1: FrontRight
+[2022.02.13-22.18.47:120][505]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 5 Game)
+[2022.02.13-22.18.47:120][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.13-22.18.47:121][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.13-22.18.47:121][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.13-22.18.47:121][505]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.13-22.18.47:121][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.13-22.18.47:121][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.13-22.18.47:124][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.13-22.18.47:124][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.13-22.18.47:124][505]LogInit: FAudioDevice initialized.
+[2022.02.13-22.18.47:124][505]LogAudio: Display: Audio Device (ID: 16) registered with world 'ScriptTest'.
+[2022.02.13-22.18.47:135][505]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.13-22.18.47:139][505]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest.ScriptTest up for play (max tick rate 0) at 2022.02.13-22.18.47
+[2022.02.13-22.18.47:139][505]LogWorld: Bringing up level for play took: 0.002910
+[2022.02.13-22.18.47:140][505]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.02.13-22.18.47:150][505]PIE: Server logged in
+[2022.02.13-22.18.47:152][505]PIE: Play in editor total start time 0.111 seconds.
+[2022.02.13-22.19.10:674][566]LogNet: Browse: /Game/FirstPersonBP/Maps/ScriptTest
+[2022.02.13-22.19.10:674][566]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/ScriptTest
+[2022.02.13-22.19.10:674][566]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest
+[2022.02.13-22.19.10:675][566]LogWorld: UWorld::CleanupWorld for ScriptTest, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-22.19.10:675][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-22.19.10:732][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-22.19.10:738][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.02.13-22.19.10:741][566]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest
+[2022.02.13-22.19.10:748][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006998s)
+[2022.02.13-22.19.10:750][566]LogAIModule: Creating AISystem for world ScriptTest
+[2022.02.13-22.19.10:750][566]LogPlayLevel: PIE: World Init took: (0.001794s)
+[2022.02.13-22.19.10:750][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/ScriptTest.ScriptTest to /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest.ScriptTest (0.009186s)
+[2022.02.13-22.19.10:750][566]LogAudio: Display: Audio Device (ID: 16) registered with world 'ScriptTest'.
+[2022.02.13-22.19.10:750][566]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.13-22.19.10:752][566]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest.ScriptTest up for play (max tick rate 0) at 2022.02.13-22.19.10
+[2022.02.13-22.19.10:752][566]LogWorld: Bringing up level for play took: 0.001627
+[2022.02.13-22.19.10:756][566]LogLoad: Took 0.081955 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest)
+[2022.02.13-22.19.12:130][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-22.19.12:130][681]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest
+[2022.02.13-22.19.12:130][681]LogWorld: UWorld::CleanupWorld for ScriptTest, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-22.19.12:131][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-22.19.12:165][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.13-22.19.12:177][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-22.19.12:213][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-22.19.12:213][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-22.19.12:216][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-22.19.12:226][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.02.13-22.19.12:266][682]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.02.13-22.23.58:291][347]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.13-22.23.58:300][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.13-22.23.58:300][347]PIE: New page: PIE session: ScriptTest (13 Feb 2022, 22:23:58)
+[2022.02.13-22.23.58:300][347]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest
+[2022.02.13-22.23.58:309][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008197s)
+[2022.02.13-22.23.58:310][347]LogAIModule: Creating AISystem for world ScriptTest
+[2022.02.13-22.23.58:311][347]LogPlayLevel: PIE: World Init took: (0.002017s)
+[2022.02.13-22.23.58:311][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/ScriptTest.ScriptTest to /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest.ScriptTest (0.010491s)
+[2022.02.13-22.23.58:360][347]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2022.02.13-22.23.58:368][347]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.02.13-22.23.58:369][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.13-22.23.58:369][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.13-22.23.58:369][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.13-22.23.58:369][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.13-22.23.58:369][347]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.13-22.23.58:369][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.13-22.23.58:369][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.13-22.23.58:369][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.13-22.23.58:370][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.13-22.23.58:370][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.13-22.23.58:370][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.13-22.23.58:370][347]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.13-22.23.58:381][347]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.13-22.23.58:382][347]LogAudioMixer: Display: 1: FrontRight
+[2022.02.13-22.23.58:409][347]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 5 Game)
+[2022.02.13-22.23.58:410][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.13-22.23.58:410][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.13-22.23.58:410][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.13-22.23.58:411][347]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.13-22.23.58:411][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.13-22.23.58:411][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.13-22.23.58:414][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.13-22.23.58:414][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.13-22.23.58:414][347]LogInit: FAudioDevice initialized.
+[2022.02.13-22.23.58:414][347]LogAudio: Display: Audio Device (ID: 17) registered with world 'ScriptTest'.
+[2022.02.13-22.23.58:429][347]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.13-22.23.58:433][347]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest.ScriptTest up for play (max tick rate 0) at 2022.02.13-22.23.58
+[2022.02.13-22.23.58:433][347]LogWorld: Bringing up level for play took: 0.003177
+[2022.02.13-22.23.58:434][347]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.02.13-22.23.58:443][347]PIE: Server logged in
+[2022.02.13-22.23.58:446][347]PIE: Play in editor total start time 0.147 seconds.
+[2022.02.13-22.24.40:911][693]LogNet: Browse: /Game/FirstPersonBP/Maps/ScriptTest
+[2022.02.13-22.24.40:912][693]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/ScriptTest
+[2022.02.13-22.24.40:912][693]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest
+[2022.02.13-22.24.40:913][693]LogWorld: UWorld::CleanupWorld for ScriptTest, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-22.24.40:913][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-22.24.40:984][693]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-22.24.40:992][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2022.02.13-22.24.41:001][693]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest
+[2022.02.13-22.24.41:009][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006964s)
+[2022.02.13-22.24.41:011][693]LogAIModule: Creating AISystem for world ScriptTest
+[2022.02.13-22.24.41:011][693]LogPlayLevel: PIE: World Init took: (0.002082s)
+[2022.02.13-22.24.41:011][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/ScriptTest.ScriptTest to /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest.ScriptTest (0.009416s)
+[2022.02.13-22.24.41:011][693]LogAudio: Display: Audio Device (ID: 17) registered with world 'ScriptTest'.
+[2022.02.13-22.24.41:011][693]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.13-22.24.41:013][693]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest.ScriptTest up for play (max tick rate 0) at 2022.02.13-22.24.41
+[2022.02.13-22.24.41:014][693]LogWorld: Bringing up level for play took: 0.001853
+[2022.02.13-22.24.41:016][693]LogLoad: Took 0.105085 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest)
+[2022.02.13-22.24.41:552][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-22.24.41:552][730]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_ScriptTest
+[2022.02.13-22.24.41:553][730]LogWorld: UWorld::CleanupWorld for ScriptTest, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-22.24.41:554][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-22.24.41:571][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.13-22.24.41:582][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-22.24.41:621][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-22.24.41:621][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-22.24.41:623][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-22.24.41:640][730]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2022.02.13-22.24.41:683][731]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.02.13-22.33.38:960][427]LogHttp: Warning: 0000025D16A6CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF61D6283-495D-822B-F758-C2AC3812FEB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=403d66904434be6135d0a399c430c106%7C51e0b40fad9a4f298c7ddae697149f7a%7Cc8afad19-f33d-4620-a7a9-ef17512d1c35&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.13-22.33.38:960][427]LogHttp: Warning: 0000025D16A6CF00: request failed, libcurl error: 0 (No error)
+[2022.02.13-22.33.38:960][427]LogHttp: Warning: 0000025D16A6CF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25d432cfeb0 [can pipeline])
+[2022.02.13-22.33.38:960][427]LogHttp: Warning: 0000025D16A6CF00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.02.13-22.33.38:960][427]LogHttp: Warning: 0000025D16A6CF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.44.219.54) port 443 (#0))
+[2022.02.13-22.33.38:960][427]LogHttp: Warning: 0000025D16A6CF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.13-22.33.38:960][427]LogHttp: Warning: 0000025D16A6CF00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.02.13-22.33.38:960][427]LogHttp: Warning: 0000025D16A6CF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.13-22.33.38:960][427]LogHttp: Warning: 0000025D16A6CF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.13-22.33.38:960][427]LogHttp: Warning: 0000025D16A6CF00: libcurl info message cache 7 (Closing connection 0)
+[2022.02.13-22.33.38:960][427]LogHttp: Warning: 0000025D16A6CF00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.02.13-22.33.38:961][427]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF61D6283-495D-822B-F758-C2AC3812FEB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=403d66904434be6135d0a399c430c106%7C51e0b40fad9a4f298c7ddae697149f7a%7Cc8afad19-f33d-4620-a7a9-ef17512d1c35&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.13-22.37.42:702][215]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.13-22.37.42:702][215]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-22.37.42:702][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-22.37.43:981][302]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
