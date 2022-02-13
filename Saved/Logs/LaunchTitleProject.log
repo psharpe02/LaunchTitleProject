@@ -1697,3 +1697,120 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.13-20.20.41:673][348]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.13-20.20.41:673][348]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThrownBoxJumpScare.ThrownBoxJumpScare
 [2022.02.13-20.20.41:673][348]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/LevelTesting.LevelTesting
+[2022.02.13-20.21.09:914][456]LogHttp: Warning: 0000025C463E5600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47CEE93F-4859-5523-82D0-3791F85F1214%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=403d66904434be6135d0a399c430c106%7C51e0b40fad9a4f298c7ddae697149f7a%7Cc8afad19-f33d-4620-a7a9-ef17512d1c35&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.13-20.21.09:914][456]LogHttp: Warning: 0000025C463E5600: request failed, libcurl error: 0 (No error)
+[2022.02.13-20.21.09:914][456]LogHttp: Warning: 0000025C463E5600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25b82a4beb0 [can pipeline])
+[2022.02.13-20.21.09:914][456]LogHttp: Warning: 0000025C463E5600: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.02.13-20.21.09:914][456]LogHttp: Warning: 0000025C463E5600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.54.106.216) port 443 (#0))
+[2022.02.13-20.21.09:914][456]LogHttp: Warning: 0000025C463E5600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.13-20.21.09:914][456]LogHttp: Warning: 0000025C463E5600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.02.13-20.21.09:914][456]LogHttp: Warning: 0000025C463E5600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.13-20.21.09:914][456]LogHttp: Warning: 0000025C463E5600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.13-20.21.09:914][456]LogHttp: Warning: 0000025C463E5600: libcurl info message cache 7 (Closing connection 0)
+[2022.02.13-20.21.09:914][456]LogHttp: Warning: 0000025C463E5600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.02.13-20.21.09:915][456]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47CEE93F-4859-5523-82D0-3791F85F1214%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=403d66904434be6135d0a399c430c106%7C51e0b40fad9a4f298c7ddae697149f7a%7Cc8afad19-f33d-4620-a7a9-ef17512d1c35&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.13-20.34.36:219][594]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Turlough_TestFolder/SpookChar/SpookyBP.SpookyBP
+[2022.02.13-20.34.40:603][955]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-20.34.40:604][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-20.34.40:703][955]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Turlough_TestFolder/SpookChar/SpookyBP.SpookyBP
+[2022.02.13-20.34.54:043][309]BlueprintLog: New page: Compile SpookyBP
+[2022.02.13-20.34.54:139][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.02.13-20.34.54:836][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/SpookChar/SpookyBP" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/SpookChar/SpookyBP.uasset" SILENT=true
+[2022.02.13-20.34.54:846][358]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/SpookyBP67D4DF8D4D10AF7FCB66599740660A9B.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/SpookChar/SpookyBP.uasset'
+[2022.02.13-20.34.54:875][358]AssetCheck: New page: Asset Save: SpookyBP
+[2022.02.13-20.34.54:875][358]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/SpookChar/SpookyBP.SpookyBP
+[2022.02.13-20.34.55:457][420]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-20.34.55:457][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-20.35.21:664][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.02.13-20.35.22:260][700]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/LevelTesting_Auto20A57998C4D684A0BF780AAAC095AEE30.tmp' to '../../../../LaunchTitleProject/Saved/Autosaves/Game/FirstPersonBP/Maps/LevelTesting_Auto2.umap'
+[2022.02.13-20.35.22:263][700]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/LevelTesting' took 0.649
+[2022.02.13-20.35.22:263][700]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.649
+[2022.02.13-20.37.57:994][478]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.13-20.37.57:994][478]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-20.37.57:994][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-20.44.26:058][230]BlueprintLog: New page: Compile PorceleinDoll
+[2022.02.13-20.44.26:182][230]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2022.02.13-20.44.49:663][434]BlueprintLog: New page: Compile PorceleinDoll
+[2022.02.13-20.44.49:771][434]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2022.02.13-20.45.16:981][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.02.13-20.45.18:486][201]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-20.45.18:958][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/LevelTesting" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/LevelTesting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-20.45.18:985][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.02.13-20.45.19:506][201]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/LevelTesting0C734BAE41B1FCAE433F72BE27CA8CBC.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/LevelTesting.umap'
+[2022.02.13-20.45.19:522][201]LogFileHelpers: Saving map 'LevelTesting' took 0.566
+[2022.02.13-20.45.19:534][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/PorceleinDoll" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/PorceleinDoll.uasset" SILENT=true
+[2022.02.13-20.45.19:544][201]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/PorceleinDollB01E3DA84D842A295434F89F55733FFD.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/PorceleinDoll.uasset'
+[2022.02.13-20.45.19:614][201]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/ScriptTest.ScriptTest
+[2022.02.13-20.45.19:615][201]Cmd: MAP LOAD FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/ScriptTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-20.45.19:615][201]LightingResults: New page: Lighting Build
+[2022.02.13-20.45.19:615][201]LoadErrors: New page: Loading map: ScriptTest.umap
+[2022.02.13-20.45.19:663][201]LogWorld: UWorld::CleanupWorld for LevelTesting, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-20.45.19:664][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-20.45.19:668][201]MapCheck: New page: Map Check
+[2022.02.13-20.45.19:668][201]LightingResults: New page: Lighting Build
+[2022.02.13-20.45.19:695][201]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-20.45.19:750][201]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2022.02.13-20.45.19:753][201]LogAudio: Display: Audio Device (ID: 1) registered with world 'ScriptTest'.
+[2022.02.13-20.45.19:887][201]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-20.45.19:887][201]LogAIModule: Creating AISystem for world ScriptTest
+[2022.02.13-20.45.19:924][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.02.13-20.45.19:933][201]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-20.45.19:934][201]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2022.02.13-20.45.19:934][201]LogFileHelpers: Loading map 'ScriptTest' took 0.319
+[2022.02.13-20.45.19:964][201]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.13-20.45.19:964][201]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/PorceleinDoll.PorceleinDoll
+[2022.02.13-20.45.19:964][201]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/LevelTesting.LevelTesting
+[2022.02.13-20.45.24:162][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.13-20.46.08:850][112]BlueprintLog: New page: Compile PorceleinDoll
+[2022.02.13-20.46.08:997][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.02.13-20.46.10:146][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/PorceleinDoll" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/PorceleinDoll.uasset" SILENT=true
+[2022.02.13-20.46.10:160][183]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/PorceleinDollCCC1F06843E83BF54A6622A45C79B29B.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/PorceleinDoll.uasset'
+[2022.02.13-20.46.10:182][183]AssetCheck: New page: Asset Save: PorceleinDoll
+[2022.02.13-20.46.10:182][183]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/PorceleinDoll.PorceleinDoll
+[2022.02.13-20.46.33:492][195]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.13-20.46.35:599][352]LogEditorViewport: Clicking on Actor (LMB): PorceleinDoll_C (PorceleinDoll)
+[2022.02.13-20.48.24:915][107]BlueprintLog: New page: Compile PorceleinDoll
+[2022.02.13-20.48.25:067][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.02.13-20.49.06:649][454]BlueprintLog: New page: Compile PorceleinDoll
+[2022.02.13-20.49.06:801][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.02.13-20.50.30:481][300]LogEditorTransaction: Undo Move Node
+[2022.02.13-20.51.20:581][766]BlueprintLog: New page: Compile PorceleinDoll
+[2022.02.13-20.51.20:769][766]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2022.02.13-20.51.21:887][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/PorceleinDoll" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/PorceleinDoll.uasset" SILENT=true
+[2022.02.13-20.51.21:909][839]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/PorceleinDoll11CE22D047C6A9341C63A1A5432055ED.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/PorceleinDoll.uasset'
+[2022.02.13-20.51.21:935][839]AssetCheck: New page: Asset Save: PorceleinDoll
+[2022.02.13-20.51.21:935][839]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/PorceleinDoll.PorceleinDoll
+[2022.02.13-20.55.18:225][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.02.13-20.55.18:237][581]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/ScriptTest_Auto38C4EE169493127BDCC42BBB3F23B1DCD.tmp' to '../../../../LaunchTitleProject/Saved/Autosaves/Game/FirstPersonBP/Maps/ScriptTest_Auto3.umap'
+[2022.02.13-20.55.18:238][581]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/ScriptTest' took 0.057
+[2022.02.13-20.55.18:238][581]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2022.02.13-20.57.38:406][759]BlueprintLog: New page: Compile PorceleinDoll
+[2022.02.13-20.57.38:563][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.02.13-20.58.04:571][522]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\Games design\sounds\CreepySound.wav)
+[2022.02.13-20.58.11:776][818]LogContentBrowser: Deferred new asset file creation: CreepySound_Cue
+[2022.02.13-20.58.11:810][818]LogContentBrowser: Creating deferred item: CreepySound_Cue
+[2022.02.13-20.58.13:628][952]LogContentBrowser: Attempting asset rename: CreepySound_Cue -> CreepySound_Cue
+[2022.02.13-20.58.13:872][952]LogContentBrowser: End creating deferred item CreepySound_Cue
+[2022.02.13-20.58.36:991][970]LogContentBrowser: Attempting asset rename: PorceleinDoll -> PorcelainDoll
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.PorcelainDoll:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.SKEL_PorcelainDoll_C' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.PorcelainDoll_C' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.PorcelainDoll:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.PorcelainDoll:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.PorcelainDoll:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.PorcelainDoll_C:OnFail_718D9D5F4F9770BAEA3C01989211CE41' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.PorcelainDoll_C:OnSuccess_718D9D5F4F9770BAEA3C01989211CE41' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.SKEL_PorcelainDoll_C:UserConstructionScript' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.SKEL_PorcelainDoll_C:BndEvt__PorceleinDoll_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.SKEL_PorcelainDoll_C:ReceiveTick' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.SKEL_PorcelainDoll_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:838][970]LogMetaData: Removing '/Game/Turlough_TestFolder/PorcelainDoll.SKEL_PorcelainDoll_C:ReceiveBeginPlay' ref from Metadata '/Game/Turlough_TestFolder/PorceleinDoll.PackageMetaData'
+[2022.02.13-20.58.38:912][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/PorcelainDoll" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/PorcelainDoll.uasset" SILENT=true
+[2022.02.13-20.58.38:934][970]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/PorcelainDollEF1BDBEA4B71051787CABEA214B8950B.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/PorcelainDoll.uasset'
+[2022.02.13-20.58.39:385][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/PorceleinDoll" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/PorceleinDoll.uasset" SILENT=true
+[2022.02.13-20.58.39:386][970]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/PorceleinDoll8BAF2C524482CD6AFA7E8E885D9B27A3.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/PorceleinDoll.uasset'
+[2022.02.13-20.58.39:962][970]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.13-20.58.39:962][970]LogContentValidation: Display: Validating ObjectRedirector /Game/Turlough_TestFolder/PorceleinDoll.PorceleinDoll
+[2022.02.13-20.58.39:962][970]LogContentValidation: Display: Validating ObjectRedirector /Game/Turlough_TestFolder/PorceleinDoll.Default__PorceleinDoll_C
+[2022.02.13-20.58.39:962][970]LogContentValidation: Display: Validating ObjectRedirector /Game/Turlough_TestFolder/PorceleinDoll.PorceleinDoll_C
+[2022.02.13-20.58.39:963][970]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/PorcelainDoll.PorcelainDoll
