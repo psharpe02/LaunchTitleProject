@@ -981,3 +981,404 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.20-21.21.06:912][540]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/IncrementPathIndex5AD021AE4DAF5F93D3EE029C861A6D6C.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/IncrementPathIndex.uasset'
 [2022.03.20-21.21.06:925][540]AssetCheck: New page: Asset Save: IncrementPathIndex
 [2022.03.20-21.21.06:926][540]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/NPC1/IncrementPathIndex.IncrementPathIndex
+[2022.03.20-21.23.04:598][277]BlueprintLog: New page: Compile IncrementPathIndex
+[2022.03.20-21.23.04:638][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.03.20-21.24.26:018][889]BlueprintLog: New page: Compile IncrementPathIndex
+[2022.03.20-21.24.26:056][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.03.20-21.24.26:448][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/IncrementPathIndex" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/IncrementPathIndex.uasset" SILENT=true
+[2022.03.20-21.24.26:456][920]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/IncrementPathIndexF397ED9248C28082145FF6B1D1A38231.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/IncrementPathIndex.uasset'
+[2022.03.20-21.24.26:468][920]AssetCheck: New page: Asset Save: IncrementPathIndex
+[2022.03.20-21.24.26:468][920]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/NPC1/IncrementPathIndex.IncrementPathIndex
+[2022.03.20-21.25.09:173][792]BlueprintLog: New page: Compile IncrementPathIndex
+[2022.03.20-21.25.09:212][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.03.20-21.25.09:796][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/IncrementPathIndex" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/IncrementPathIndex.uasset" SILENT=true
+[2022.03.20-21.25.09:805][841]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/IncrementPathIndexDD88EF6D44025DB5F6024BAC40535249.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/IncrementPathIndex.uasset'
+[2022.03.20-21.25.09:817][841]AssetCheck: New page: Asset Save: IncrementPathIndex
+[2022.03.20-21.25.09:817][841]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/NPC1/IncrementPathIndex.IncrementPathIndex
+[2022.03.20-21.25.24:053][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/NPC_BT" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/NPC_BT.uasset" SILENT=true
+[2022.03.20-21.25.24:062][202]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/NPC_BT0C20C1B547794D49218389AB5027F8C4.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/NPC_BT.uasset'
+[2022.03.20-21.25.24:074][202]AssetCheck: New page: Asset Save: NPC_BT
+[2022.03.20-21.25.24:074][202]LogContentValidation: Display: Validating BehaviorTree /Game/Turlough_TestFolder/NPC1/NPC_BT.NPC_BT
+[2022.03.20-21.25.52:289][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/NPC_BT" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/NPC_BT.uasset" SILENT=true
+[2022.03.20-21.25.52:293][939]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/NPC_BT1F52A1B047B9F6BFECEC559E1B31FC5C.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/NPC_BT.uasset'
+[2022.03.20-21.25.52:307][939]AssetCheck: New page: Asset Save: NPC_BT
+[2022.03.20-21.25.52:307][939]LogContentValidation: Display: Validating BehaviorTree /Game/Turlough_TestFolder/NPC1/NPC_BT.NPC_BT
+[2022.03.20-21.26.28:941][378]BlueprintLog: New page: Compile IncrementPathIndex
+[2022.03.20-21.26.28:995][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2022.03.20-21.26.29:334][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/IncrementPathIndex" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/IncrementPathIndex.uasset" SILENT=true
+[2022.03.20-21.26.29:342][406]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/IncrementPathIndex2F5BBBF946A36EBAECD884A4F66769F9.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/IncrementPathIndex.uasset'
+[2022.03.20-21.26.29:353][406]AssetCheck: New page: Asset Save: IncrementPathIndex
+[2022.03.20-21.26.29:353][406]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/NPC1/IncrementPathIndex.IncrementPathIndex
+[2022.03.20-21.26.31:452][601]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.20-21.26.31:458][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.20-21.26.31:463][601]PIE: New page: PIE session: Persistent_Level (20 Mar 2022, 21:26:31)
+[2022.03.20-21.26.31:465][601]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.20-21.26.31:466][601]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.20-21.26.31:466][601]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.20-21.26.31:491][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025379s)
+[2022.03.20-21.26.31:492][601]LogAIModule: Creating AISystem for world Persistent_Level
+[2022.03.20-21.26.31:492][601]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2022.03.20-21.26.31:492][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Persistent_Level.Persistent_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level (0.026688s)
+[2022.03.20-21.26.31:524][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.20-21.26.31:525][601]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.20-21.26.31:525][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.20-21.26.31:525][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.20-21.26.31:525][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.20-21.26.31:525][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.20-21.26.31:525][601]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.20-21.26.31:525][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.20-21.26.31:525][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.20-21.26.31:525][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.20-21.26.31:526][601]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.20-21.26.31:526][601]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.20-21.26.31:526][601]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.20-21.26.31:526][601]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.20-21.26.31:531][601]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.20-21.26.31:531][601]LogAudioMixer: Display: 1: FrontRight
+[2022.03.20-21.26.31:561][601]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 5 Game)
+[2022.03.20-21.26.31:561][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.20-21.26.31:562][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.20-21.26.31:562][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.20-21.26.31:562][601]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.20-21.26.31:562][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.20-21.26.31:562][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.20-21.26.31:563][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.20-21.26.31:563][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.20-21.26.31:563][601]LogInit: FAudioDevice initialized.
+[2022.03.20-21.26.31:563][601]LogAudio: Display: Audio Device (ID: 2) registered with world 'Persistent_Level'.
+[2022.03.20-21.26.31:571][601]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.20-21.26.32:851][601]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2022.03.20-21.26.32
+[2022.03.20-21.26.32:853][601]LogWorld: Bringing up level for play took: 0.005472
+[2022.03.20-21.26.32:854][601]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.03.20-21.26.32:866][601]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2022.03.20-21.26.32:933][601]PIE: Server logged in
+[2022.03.20-21.26.32:936][601]PIE: Play in editor total start time 1.48 seconds.
+[2022.03.20-21.26.33:389][602]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2022.03.20-21.26.40:703][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.20-21.26.40:703][454]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.20-21.26.40:705][454]LogWorld: UWorld::CleanupWorld for Persistent_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.20-21.26.40:706][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.26.40:718][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.20-21.26.40:726][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.26.40:761][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.20-21.26.40:764][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.20-21.26.40:765][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.20-21.26.40:786][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.03.20-21.26.40:822][455]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.03.20-21.26.40:864][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.03.20-21.26.46:838][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.20-21.26.46:848][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.20-21.26.46:848][ 77]PIE: New page: PIE session: Persistent_Level (20 Mar 2022, 21:26:46)
+[2022.03.20-21.26.46:870][ 77]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.20-21.26.46:895][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024608s)
+[2022.03.20-21.26.46:896][ 77]LogAIModule: Creating AISystem for world Persistent_Level
+[2022.03.20-21.26.46:897][ 77]LogPlayLevel: PIE: World Init took: (0.001769s)
+[2022.03.20-21.26.46:897][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Persistent_Level.Persistent_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level (0.026629s)
+[2022.03.20-21.26.46:935][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.03.20-21.26.46:938][ 77]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.20-21.26.46:938][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.20-21.26.46:938][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.20-21.26.46:938][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.20-21.26.46:938][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.20-21.26.46:938][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.20-21.26.46:938][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.20-21.26.46:938][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.20-21.26.46:938][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.20-21.26.46:938][ 77]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.20-21.26.46:938][ 77]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.20-21.26.46:938][ 77]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.20-21.26.46:938][ 77]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.20-21.26.46:942][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.20-21.26.46:942][ 77]LogAudioMixer: Display: 1: FrontRight
+[2022.03.20-21.26.46:971][ 77]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 5 Game)
+[2022.03.20-21.26.46:972][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.20-21.26.46:972][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.20-21.26.46:972][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.20-21.26.46:972][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.20-21.26.46:972][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.20-21.26.46:972][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.20-21.26.46:973][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.20-21.26.46:973][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.20-21.26.46:973][ 77]LogInit: FAudioDevice initialized.
+[2022.03.20-21.26.46:973][ 77]LogAudio: Display: Audio Device (ID: 3) registered with world 'Persistent_Level'.
+[2022.03.20-21.26.46:981][ 77]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.20-21.26.48:202][ 77]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2022.03.20-21.26.48
+[2022.03.20-21.26.48:203][ 77]LogWorld: Bringing up level for play took: 0.006056
+[2022.03.20-21.26.48:204][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.03.20-21.26.48:267][ 77]PIE: Server logged in
+[2022.03.20-21.26.48:268][ 77]PIE: Play in editor total start time 1.423 seconds.
+[2022.03.20-21.26.48:371][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.03.20-21.26.54:135][763]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 19.0
+[2022.03.20-21.26.54:641][823]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18.0
+[2022.03.20-21.26.55:148][883]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17.0
+[2022.03.20-21.26.55:652][942]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16.0
+[2022.03.20-21.26.56:155][  2]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15.0
+[2022.03.20-21.26.56:658][ 62]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 14.0
+[2022.03.20-21.26.57:165][122]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13.0
+[2022.03.20-21.26.57:666][181]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12.0
+[2022.03.20-21.26.58:170][241]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11.0
+[2022.03.20-21.26.58:674][301]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10.0
+[2022.03.20-21.27.00:737][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.20-21.27.00:737][541]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.20-21.27.00:739][541]LogWorld: UWorld::CleanupWorld for Persistent_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.20-21.27.00:739][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.27.00:751][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.20-21.27.00:758][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.27.00:799][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.20-21.27.00:799][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.20-21.27.00:801][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.20-21.27.00:808][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.20-21.27.00:818][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.03.20-21.27.00:860][542]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.03.20-21.27.00:899][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.03.20-21.27.07:652][259]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2022.03.20-21.27.13:018][709]LogEditorViewport: Clicking on Actor (LMB): PatrolPath_C (PatrolPath)
+[2022.03.20-21.28.02:646][406]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.20-21.28.02:654][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.20-21.28.02:654][406]PIE: New page: PIE session: Persistent_Level (20 Mar 2022, 21:28:02)
+[2022.03.20-21.28.02:679][406]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.20-21.28.02:703][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023569s)
+[2022.03.20-21.28.02:704][406]LogAIModule: Creating AISystem for world Persistent_Level
+[2022.03.20-21.28.02:705][406]LogPlayLevel: PIE: World Init took: (0.001755s)
+[2022.03.20-21.28.02:705][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Persistent_Level.Persistent_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level (0.025542s)
+[2022.03.20-21.28.02:746][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.03.20-21.28.02:748][406]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.20-21.28.02:748][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.20-21.28.02:748][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.20-21.28.02:748][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.20-21.28.02:748][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.20-21.28.02:748][406]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.20-21.28.02:748][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.20-21.28.02:748][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.20-21.28.02:748][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.20-21.28.02:748][406]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.20-21.28.02:748][406]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.20-21.28.02:748][406]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.20-21.28.02:748][406]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.20-21.28.02:752][406]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.20-21.28.02:752][406]LogAudioMixer: Display: 1: FrontRight
+[2022.03.20-21.28.02:780][406]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 5 Game)
+[2022.03.20-21.28.02:780][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.20-21.28.02:780][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.20-21.28.02:780][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.20-21.28.02:781][406]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.20-21.28.02:781][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.20-21.28.02:781][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.20-21.28.02:782][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.20-21.28.02:782][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.20-21.28.02:782][406]LogInit: FAudioDevice initialized.
+[2022.03.20-21.28.02:782][406]LogAudio: Display: Audio Device (ID: 4) registered with world 'Persistent_Level'.
+[2022.03.20-21.28.02:791][406]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.20-21.28.04:107][406]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2022.03.20-21.28.04
+[2022.03.20-21.28.04:108][406]LogWorld: Bringing up level for play took: 0.003924
+[2022.03.20-21.28.04:108][406]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.20-21.28.04:155][406]PIE: Server logged in
+[2022.03.20-21.28.04:156][406]PIE: Play in editor total start time 1.505 seconds.
+[2022.03.20-21.28.04:246][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.03.20-21.28.05:957][611]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 19.0
+[2022.03.20-21.28.06:459][671]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18.0
+[2022.03.20-21.28.06:965][731]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17.0
+[2022.03.20-21.28.07:465][791]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16.0
+[2022.03.20-21.28.07:965][851]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15.0
+[2022.03.20-21.28.08:466][911]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 14.0
+[2022.03.20-21.28.08:968][971]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13.0
+[2022.03.20-21.28.09:468][ 31]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12.0
+[2022.03.20-21.28.09:968][ 91]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11.0
+[2022.03.20-21.28.10:468][151]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10.0
+[2022.03.20-21.28.10:968][211]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9.0
+[2022.03.20-21.28.11:469][271]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8.0
+[2022.03.20-21.28.11:580][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.20-21.28.11:580][279]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.20-21.28.11:582][279]LogWorld: UWorld::CleanupWorld for Persistent_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.20-21.28.11:582][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.28.11:596][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.20-21.28.11:610][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.28.11:645][279]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.20-21.28.11:645][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.20-21.28.11:647][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.20-21.28.11:650][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.20-21.28.11:661][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.03.20-21.28.11:697][280]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.20-21.28.11:733][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.03.20-21.29.21:835][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.03.20-21.29.21:901][933]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/Persistent_Level_Auto1CF35B04E4D466BDBD563228A6291F48E.tmp' to '../../../../LaunchTitleProject/Saved/Autosaves/Game/FirstPersonBP/Maps/Persistent_Level_Auto1.umap'
+[2022.03.20-21.29.21:905][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Persistent_Level' took 0.110
+[2022.03.20-21.29.21:905][933]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.110
+[2022.03.20-21.29.21:906][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Turlough_TestFolder/NPC1/NPC_BT] ([1] browsable assets)...
+[2022.03.20-21.29.21:906][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Turlough_TestFolder/NPC1/NPC_BT]
+[2022.03.20-21.29.21:906][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/NPC_BT" FILE="../../../../LaunchTitleProject/Saved/Autosaves/Game/Turlough_TestFolder/NPC1/NPC_BT_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.03.20-21.29.21:913][933]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/NPC_BT_Auto1288E82DB442310CE27B78082FD3982AB.tmp' to '../../../../LaunchTitleProject/Saved/Autosaves/Game/Turlough_TestFolder/NPC1/NPC_BT_Auto1.uasset'
+[2022.03.20-21.29.21:914][933]LogFileHelpers: Auto-saving content packages took 0.008
+[2022.03.20-21.31.22:039][ 63]LogSlate: Window 'IncrementPathIndex' being destroyed
+[2022.03.20-21.31.22:049][ 63]LogSlate: Window 'IncrementPathIndex' being destroyed
+[2022.03.20-21.31.22:104][ 63]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.20-21.31.22:104][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.31.22:156][ 63]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.20-21.31.22:157][ 63]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.20-21.31.22:157][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.31.22:208][ 63]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.03.20-21.31.22:208][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.31.22:260][ 63]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.20-21.31.22:260][ 63]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.20-21.31.22:260][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.31.22:318][ 63]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.03.20-21.31.22:318][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.31.23:500][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.03.20-21.31.24:781][156]LogSlate: Window 'Save Content' being destroyed
+[2022.03.20-21.31.24:800][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/NPC_BT" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/NPC_BT.uasset" SILENT=true
+[2022.03.20-21.31.24:803][156]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/NPC_BTC52C319B45208127ADAF269984782382.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/NPC_BT.uasset'
+[2022.03.20-21.31.24:804][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Persistent_Level" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/Persistent_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.20-21.31.24:854][156]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.03.20-21.31.24:917][156]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/Persistent_Level07B3FF5342DBDC0B6635C1B9959377B2.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/Persistent_Level.umap'
+[2022.03.20-21.31.24:925][156]LogFileHelpers: Saving map 'Persistent_Level' took 0.120
+[2022.03.20-21.31.24:939][156]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.20-21.31.24:939][156]LogContentValidation: Display: Validating BehaviorTree /Game/Turlough_TestFolder/NPC1/NPC_BT.NPC_BT
+[2022.03.20-21.31.24:939][156]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Persistent_Level.Persistent_Level
+[2022.03.20-21.31.28:155][430]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.20-21.31.28:161][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.20-21.31.28:161][430]PIE: New page: PIE session: Persistent_Level (20 Mar 2022, 21:31:28)
+[2022.03.20-21.31.28:185][430]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.20-21.31.28:208][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023295s)
+[2022.03.20-21.31.28:210][430]LogAIModule: Creating AISystem for world Persistent_Level
+[2022.03.20-21.31.28:210][430]LogPlayLevel: PIE: World Init took: (0.001751s)
+[2022.03.20-21.31.28:210][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Persistent_Level.Persistent_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level (0.025252s)
+[2022.03.20-21.31.28:227][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.03.20-21.31.28:232][430]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.20-21.31.28:232][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.20-21.31.28:232][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.20-21.31.28:232][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.20-21.31.28:233][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.20-21.31.28:233][430]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.20-21.31.28:233][430]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.20-21.31.28:233][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.20-21.31.28:233][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.20-21.31.28:233][430]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.20-21.31.28:233][430]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.20-21.31.28:233][430]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.20-21.31.28:233][430]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.20-21.31.28:237][430]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.20-21.31.28:237][430]LogAudioMixer: Display: 1: FrontRight
+[2022.03.20-21.31.28:266][430]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 5 Game)
+[2022.03.20-21.31.28:266][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.20-21.31.28:266][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.20-21.31.28:266][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.20-21.31.28:267][430]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.20-21.31.28:267][430]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.20-21.31.28:267][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.20-21.31.28:267][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.20-21.31.28:267][430]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.20-21.31.28:267][430]LogInit: FAudioDevice initialized.
+[2022.03.20-21.31.28:267][430]LogAudio: Display: Audio Device (ID: 5) registered with world 'Persistent_Level'.
+[2022.03.20-21.31.28:279][430]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.20-21.31.29:606][430]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2022.03.20-21.31.29
+[2022.03.20-21.31.29:608][430]LogWorld: Bringing up level for play took: 0.004855
+[2022.03.20-21.31.29:608][430]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.20-21.31.29:659][430]PIE: Server logged in
+[2022.03.20-21.31.29:659][430]PIE: Play in editor total start time 1.5 seconds.
+[2022.03.20-21.31.29:736][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.03.20-21.31.32:714][786]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 19.0
+[2022.03.20-21.31.33:215][846]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18.0
+[2022.03.20-21.31.33:716][906]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17.0
+[2022.03.20-21.31.34:216][966]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16.0
+[2022.03.20-21.31.34:718][ 26]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15.0
+[2022.03.20-21.31.34:867][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.20-21.31.34:868][ 41]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.20-21.31.34:870][ 41]LogWorld: UWorld::CleanupWorld for Persistent_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.20-21.31.34:870][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.31.34:881][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.20-21.31.34:895][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.31.34:911][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.20-21.31.34:914][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.20-21.31.34:915][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.20-21.31.34:931][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.03.20-21.31.34:980][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.20-21.31.34:999][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.03.20-21.31.36:935][201]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.20-21.31.36:940][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.20-21.31.36:940][201]PIE: New page: PIE session: Persistent_Level (20 Mar 2022, 21:31:36)
+[2022.03.20-21.31.36:975][201]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.20-21.31.36:999][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023449s)
+[2022.03.20-21.31.37:000][201]LogAIModule: Creating AISystem for world Persistent_Level
+[2022.03.20-21.31.37:000][201]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2022.03.20-21.31.37:000][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Persistent_Level.Persistent_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level (0.024686s)
+[2022.03.20-21.31.37:016][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.03.20-21.31.37:018][201]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.20-21.31.37:018][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.20-21.31.37:018][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.20-21.31.37:018][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.20-21.31.37:018][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.20-21.31.37:018][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.20-21.31.37:018][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.20-21.31.37:018][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.20-21.31.37:018][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.20-21.31.37:018][201]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.20-21.31.37:018][201]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.20-21.31.37:018][201]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.20-21.31.37:018][201]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.20-21.31.37:022][201]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.20-21.31.37:022][201]LogAudioMixer: Display: 1: FrontRight
+[2022.03.20-21.31.37:051][201]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 5 Game)
+[2022.03.20-21.31.37:052][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.20-21.31.37:052][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.20-21.31.37:052][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.20-21.31.37:052][201]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.20-21.31.37:052][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.20-21.31.37:052][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.20-21.31.37:053][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.20-21.31.37:053][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.20-21.31.37:053][201]LogInit: FAudioDevice initialized.
+[2022.03.20-21.31.37:053][201]LogAudio: Display: Audio Device (ID: 6) registered with world 'Persistent_Level'.
+[2022.03.20-21.31.37:065][201]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.20-21.31.38:248][201]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2022.03.20-21.31.38
+[2022.03.20-21.31.38:249][201]LogWorld: Bringing up level for play took: 0.004773
+[2022.03.20-21.31.38:249][201]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.03.20-21.31.38:308][201]PIE: Server logged in
+[2022.03.20-21.31.38:309][201]PIE: Play in editor total start time 1.369 seconds.
+[2022.03.20-21.31.38:386][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.03.20-21.31.38:390][202]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.090152 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2022.03.20-21.31.44:202][898]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 19.0
+[2022.03.20-21.31.44:702][958]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18.0
+[2022.03.20-21.31.45:202][ 18]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17.0
+[2022.03.20-21.31.45:702][ 78]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16.0
+[2022.03.20-21.31.46:202][138]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15.0
+[2022.03.20-21.31.46:704][198]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 14.0
+[2022.03.20-21.31.47:204][258]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13.0
+[2022.03.20-21.31.47:705][318]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12.0
+[2022.03.20-21.31.48:205][378]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11.0
+[2022.03.20-21.31.48:706][438]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10.0
+[2022.03.20-21.31.49:207][498]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9.0
+[2022.03.20-21.31.49:707][558]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8.0
+[2022.03.20-21.31.50:207][618]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7.0
+[2022.03.20-21.32.03:600][224]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18.0
+[2022.03.20-21.32.04:100][284]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17.0
+[2022.03.20-21.32.04:600][344]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16.0
+[2022.03.20-21.32.05:100][404]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15.0
+[2022.03.20-21.32.08:030][755]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16.0
+[2022.03.20-21.32.08:529][815]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15.0
+[2022.03.20-21.32.09:031][875]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 14.0
+[2022.03.20-21.32.09:532][935]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13.0
+[2022.03.20-21.32.10:400][ 39]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12.0
+[2022.03.20-21.32.13:117][365]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13.0
+[2022.03.20-21.32.13:618][425]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12.0
+[2022.03.20-21.32.14:118][485]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11.0
+[2022.03.20-21.32.14:618][545]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10.0
+[2022.03.20-21.32.15:120][605]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9.0
+[2022.03.20-21.32.15:619][665]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8.0
+[2022.03.20-21.32.16:119][725]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7.0
+[2022.03.20-21.32.16:620][785]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6.0
+[2022.03.20-21.32.17:120][845]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5.0
+[2022.03.20-21.32.17:644][908]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4.0
+[2022.03.20-21.32.18:144][968]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3.0
+[2022.03.20-21.32.18:645][ 28]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2.0
+[2022.03.20-21.32.18:803][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.20-21.32.18:803][ 42]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.20-21.32.18:805][ 42]LogWorld: UWorld::CleanupWorld for Persistent_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.20-21.32.18:806][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.32.18:812][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.20-21.32.18:825][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.20-21.32.18:842][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.20-21.32.18:842][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.20-21.32.18:844][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.20-21.32.18:858][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.03.20-21.32.18:910][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.20-21.32.18:926][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
