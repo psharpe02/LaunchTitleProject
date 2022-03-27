@@ -1337,3 +1337,211 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.27-19.57.07:218][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
 [2022.03.27-19.57.07:246][609]LogPlayLevel: Display: Destroying online subsystem :Context_15
 [2022.03.27-19.57.07:289][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.03.27-20.02.37:348][786]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Turlough_TestFolder/NPC1/NPC.NPC
+[2022.03.27-20.02.43:434][202]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.02.43:434][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.03.12:724][334]BlueprintLog: New page: Compile NPC_AI
+[2022.03.27-20.03.12:812][334]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.03.27-20.03.55:591][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.03.27-20.03.55:597][584]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Persistent_Level' took 0.058
+[2022.03.27-20.03.55:597][584]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Turlough_TestFolder/NPC1/NPC_AI] ([2] browsable assets)...
+[2022.03.27-20.03.55:597][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Turlough_TestFolder/NPC1/NPC_AI]
+[2022.03.27-20.03.55:597][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/NPC_AI" FILE="../../../../LaunchTitleProject/Saved/Autosaves/Game/Turlough_TestFolder/NPC1/NPC_AI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.03.27-20.03.55:612][584]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/NPC_AI_Auto28C69E6934C0770B34121FEA3E0444998.tmp' to '../../../../LaunchTitleProject/Saved/Autosaves/Game/Turlough_TestFolder/NPC1/NPC_AI_Auto2.uasset'
+[2022.03.27-20.03.55:613][584]LogFileHelpers: Auto-saving content packages took 0.016
+[2022.03.27-20.05.19:734][291]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.27-20.05.19:741][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.27-20.05.19:741][291]PIE: New page: PIE session: Persistent_Level (27 Mar 2022, 22:05:19)
+[2022.03.27-20.05.19:763][291]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.27-20.05.19:793][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030091s)
+[2022.03.27-20.05.19:793][291]LogAIModule: Creating AISystem for world Persistent_Level
+[2022.03.27-20.05.19:794][291]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2022.03.27-20.05.19:794][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Persistent_Level.Persistent_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level (0.031315s)
+[2022.03.27-20.05.19:840][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2022.03.27-20.05.19:842][291]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.27-20.05.19:842][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-20.05.19:842][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-20.05.19:842][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-20.05.19:842][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-20.05.19:842][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.27-20.05.19:842][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.27-20.05.19:842][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.27-20.05.19:842][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-20.05.19:842][291]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.27-20.05.19:842][291]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.27-20.05.19:842][291]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-20.05.19:842][291]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-20.05.19:847][291]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-20.05.19:847][291]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-20.05.19:853][291]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.27-20.05.19:854][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-20.05.19:854][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-20.05.19:854][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-20.05.19:854][291]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-20.05.19:854][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-20.05.19:854][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-20.05.19:855][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-20.05.19:855][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-20.05.19:855][291]LogInit: FAudioDevice initialized.
+[2022.03.27-20.05.19:855][291]LogAudio: Display: Audio Device (ID: 8) registered with world 'Persistent_Level'.
+[2022.03.27-20.05.19:862][291]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.27-20.05.19:866][291]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2022.03.27-21.05.19
+[2022.03.27-20.05.19:867][291]LogWorld: Bringing up level for play took: 0.003911
+[2022.03.27-20.05.19:867][291]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.03.27-20.05.19:957][291]PIE: Server logged in
+[2022.03.27-20.05.19:958][291]PIE: Play in editor total start time 0.219 seconds.
+[2022.03.27-20.05.32:085][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-20.05.32:085][737]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.27-20.05.32:088][737]LogWorld: UWorld::CleanupWorld for Persistent_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.05.32:089][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.05.32:099][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.27-20.05.32:108][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.05.32:153][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.27-20.05.32:153][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-20.05.32:154][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-20.05.32:156][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-20.05.32:167][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.03.27-20.05.32:198][738]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.03.27-20.05.32:242][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.03.27-20.05.57:925][464]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.27-20.05.57:932][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.27-20.05.57:932][464]PIE: New page: PIE session: Persistent_Level (27 Mar 2022, 22:05:57)
+[2022.03.27-20.05.57:953][464]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.27-20.05.57:982][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029907s)
+[2022.03.27-20.05.57:983][464]LogAIModule: Creating AISystem for world Persistent_Level
+[2022.03.27-20.05.57:984][464]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2022.03.27-20.05.57:984][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Persistent_Level.Persistent_Level to /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level (0.031452s)
+[2022.03.27-20.05.58:031][464]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2022.03.27-20.05.58:031][464]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.27-20.05.58:031][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.27-20.05.58:031][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.27-20.05.58:031][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.27-20.05.58:032][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.27-20.05.58:032][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.27-20.05.58:032][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.27-20.05.58:032][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.27-20.05.58:032][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.27-20.05.58:032][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.27-20.05.58:032][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.27-20.05.58:032][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.27-20.05.58:032][464]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.27-20.05.58:035][464]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.27-20.05.58:035][464]LogAudioMixer: Display: 1: FrontRight
+[2022.03.27-20.05.58:043][464]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.27-20.05.58:044][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.27-20.05.58:044][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.27-20.05.58:044][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.27-20.05.58:044][464]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.27-20.05.58:044][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.27-20.05.58:044][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.27-20.05.58:045][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.27-20.05.58:045][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.27-20.05.58:045][464]LogInit: FAudioDevice initialized.
+[2022.03.27-20.05.58:045][464]LogAudio: Display: Audio Device (ID: 9) registered with world 'Persistent_Level'.
+[2022.03.27-20.05.58:053][464]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.27-20.05.58:057][464]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2022.03.27-21.05.58
+[2022.03.27-20.05.58:058][464]LogWorld: Bringing up level for play took: 0.004262
+[2022.03.27-20.05.58:058][464]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.03.27-20.05.58:151][464]PIE: Server logged in
+[2022.03.27-20.05.58:151][464]PIE: Play in editor total start time 0.222 seconds.
+[2022.03.27-20.05.59:685][644]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 80.0
+[2022.03.27-20.06.00:689][764]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 60.0
+[2022.03.27-20.06.01:694][884]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 40.0
+[2022.03.27-20.06.02:696][  4]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 20.0
+[2022.03.27-20.06.03:105][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-20.06.03:105][ 50]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_Persistent_Level
+[2022.03.27-20.06.03:107][ 50]LogWorld: UWorld::CleanupWorld for Persistent_Level, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.06.03:108][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.06.03:117][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.27-20.06.03:127][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.06.03:170][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.27-20.06.03:171][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-20.06.03:174][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.27-20.06.03:177][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.27-20.06.03:187][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.03.27-20.06.03:238][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.03.27-20.06.03:284][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2022.03.27-20.06.41:624][143]LogEditorViewport: Clicking on Actor (LMB): DoubleDoorL_C (DoubleDoorL5)
+[2022.03.27-20.06.42:372][187]LogEditorViewport: Clicking on Actor (context menu): DoubleDoorL_C (DoubleDoorL5)
+[2022.03.27-20.06.43:373][237]PIE: Warning: Constraint in '/Engine/Transient.World_14:PersistentLevel.PunchingBag_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2022.03.27-20.06.45:721][378]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DoubleDoorL.DoubleDoorL
+[2022.03.27-20.06.50:336][659]LogSlate: Window 'DoubleDoorL' being destroyed
+[2022.03.27-20.06.50:340][659]LogSlate: Window 'DoubleDoorL' being destroyed
+[2022.03.27-20.06.50:372][659]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.06.50:372][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.06.50:413][659]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.06.50:414][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.06.50:455][659]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.06.50:455][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.06.50:520][659]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.06.50:520][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.06.50:561][659]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.06.50:561][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.06.50:606][659]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.06.50:606][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.06.50:649][659]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.06.50:650][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.06.50:691][659]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.27-20.06.50:691][659]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.06.50:691][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.06.50:746][659]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.27-20.06.50:746][659]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.06.50:746][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.06.53:435][848]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DoubleDoorL.DoubleDoorL
+[2022.03.27-20.07.09:161][924]LogSlate: Window 'DoubleDoorL' being destroyed
+[2022.03.27-20.07.09:178][924]LogSlate: Window 'DoubleDoorL' being destroyed
+[2022.03.27-20.07.09:180][924]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.07.09:180][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.09.54:151][786]PIE: Warning: Constraint in '/Engine/Transient.World_28:PersistentLevel.MoveableObject_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2022.03.27-20.10.29:109][304]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.27-20.10.51:046][197]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.03.27-20.10.51:215][197]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2022.03.27-20.11.05:267][144]LogEditorViewport: Clicking on Actor (context menu): DoubleDoorL_C (DoubleDoorL5)
+[2022.03.27-20.11.30:970][602]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DoubleDoorL.DoubleDoorL
+[2022.03.27-20.14.13:433][813]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.03.27-20.14.13:523][813]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/Persistent_Level_Auto3BFEB34904D6BC3A7D2C7F9995782C84C.tmp' to '../../../../LaunchTitleProject/Saved/Autosaves/Game/FirstPersonBP/Maps/Persistent_Level_Auto3.umap'
+[2022.03.27-20.14.13:529][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Persistent_Level' took 0.160
+[2022.03.27-20.14.13:529][813]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.160
+[2022.03.27-20.14.13:529][813]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([2] browsable assets)...
+[2022.03.27-20.14.13:540][813]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2022.03.27-20.14.13:540][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2022.03.27-20.14.13:692][813]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/FirstPersonCharacter_Auto398C7AC86449DEBA95467EAA6A9004635.tmp' to '../../../../LaunchTitleProject/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2022.03.27-20.14.13:693][813]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Turlough_TestFolder/NPC1/NPC_AI] ([2] browsable assets)...
+[2022.03.27-20.14.13:693][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Turlough_TestFolder/NPC1/NPC_AI]
+[2022.03.27-20.14.13:693][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/NPC_AI" FILE="../../../../LaunchTitleProject/Saved/Autosaves/Game/Turlough_TestFolder/NPC1/NPC_AI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.03.27-20.14.13:706][813]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/NPC_AI_Auto39BCFD700403D60A3E2EBCB93833E624E.tmp' to '../../../../LaunchTitleProject/Saved/Autosaves/Game/Turlough_TestFolder/NPC1/NPC_AI_Auto3.uasset'
+[2022.03.27-20.14.13:707][813]LogFileHelpers: Auto-saving content packages took 0.178
+[2022.03.27-20.17.00:090][618]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Turlough_TestFolder/NPC1/NPC_BT.NPC_BT
+[2022.03.27-20.17.59:196][543]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Turlough_TestFolder/NPC1/FindRandomLoction.FindRandomLoction
+[2022.03.27-20.18.00:896][636]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.18.00:896][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.22.24:700][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/NPC_BT" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/NPC_BT.uasset" SILENT=true
+[2022.03.27-20.22.24:706][171]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/NPC_BT75692BE741AA58CA3468A5825DDED2A6.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/NPC_BT.uasset'
+[2022.03.27-20.22.24:724][171]AssetCheck: New page: Asset Save: NPC_BT
+[2022.03.27-20.22.24:724][171]LogContentValidation: Display: Validating BehaviorTree /Game/Turlough_TestFolder/NPC1/NPC_BT.NPC_BT
+[2022.03.27-20.22.34:062][777]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Turlough_TestFolder/NPC1/ChangeNPCspeed.ChangeNPCspeed
+[2022.03.27-20.22.35:854][871]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.03.27-20.22.35:854][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.27-20.27.03:282][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Persistent_Level" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/Persistent_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.27-20.27.03:317][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.03.27-20.27.03:398][395]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/Persistent_Level67A6C88D470C59CA579C75BB3AC426A7.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/Persistent_Level.umap'
+[2022.03.27-20.27.03:408][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Persistent_Level_BuiltData" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/Persistent_Level_BuiltData.uasset" SILENT=true
+[2022.03.27-20.27.03:447][395]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/Persistent_Level_BuiltData836D199E431477BBCC7D729F9BA2C1C2.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Maps/Persistent_Level_BuiltData.uasset'
+[2022.03.27-20.27.03:468][395]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.27-20.27.03:468][395]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Persistent_Level_BuiltData.Persistent_Level_BuiltData
+[2022.03.27-20.27.03:468][395]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Persistent_Level.Persistent_Level
+[2022.03.27-20.27.04:275][449]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2022.03.27-20.27.05:487][449]LogSlate: Window 'Save Content' being destroyed
+[2022.03.27-20.27.05:536][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/ChangeStatus" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/ChangeStatus.uasset" SILENT=true
+[2022.03.27-20.27.05:540][449]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/ChangeStatusF70704154F00E614C75D36994F6ECA74.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/ChangeStatus.uasset'
+[2022.03.27-20.27.05:542][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/ChasePlayer" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/ChasePlayer.uasset" SILENT=true
+[2022.03.27-20.27.05:546][449]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/ChasePlayerF16545F7411D76816F8722B50510B32A.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/ChasePlayer.uasset'
+[2022.03.27-20.27.05:546][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/FirstPersonCharacter" FILE="../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2022.03.27-20.27.05:683][449]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/FirstPersonCharacterE3C660BE4E74A63E5FFDC789FEC1047D.tmp' to '../../../../LaunchTitleProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2022.03.27-20.27.05:684][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Turlough_TestFolder/NPC1/NPC_AI" FILE="../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/NPC_AI.uasset" SILENT=true
+[2022.03.27-20.27.05:697][449]LogSavePackage: Moving '../../../../LaunchTitleProject/Saved/NPC_AI450EB10349C80B2D5736049E15722F3F.tmp' to '../../../../LaunchTitleProject/Content/Turlough_TestFolder/NPC1/NPC_AI.uasset'
+[2022.03.27-20.27.05:717][449]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.27-20.27.05:717][449]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.03.27-20.27.05:717][449]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/NPC1/NPC_AI.NPC_AI
+[2022.03.27-20.27.05:717][449]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/NPC1/ChasePlayer.ChasePlayer
+[2022.03.27-20.27.05:717][449]LogContentValidation: Display: Validating Blueprint /Game/Turlough_TestFolder/NPC1/ChangeStatus.ChangeStatus
