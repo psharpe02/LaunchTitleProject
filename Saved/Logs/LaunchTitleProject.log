@@ -1043,3 +1043,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.01-19.50.58:676][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.05.01-19.50.58:743][441]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
 [2022.05.01-19.50.58:743][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.01-19.54.42:775][112]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
