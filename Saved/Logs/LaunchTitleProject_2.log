@@ -1833,3 +1833,38 @@ Continue: Skip saving this asset only.
 [2022.05.10-14.23.35:319][662]LogPlayLevel: Display: Destroying online subsystem :Context_35
 [2022.05.10-14.23.35:337][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
 [2022.05.10-14.23.41:594][363]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC4)
+[2022.05.10-14.34.20:192][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.05.10-14.34.23:527][874]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Turlough/AnimBPs/Krok_AnimBP.Krok_AnimBP
+[2022.05.10-14.34.23:532][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.10-14.34.24:096][874]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.05.10-14.35.01:916][883]LogSlate: Took 0.000736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.10-14.35.27:525][440]LogContentBrowser: Attempting asset rename: ChaseStatus -> ChaseStatus_Polly
+[2022.05.10-14.35.27:848][440]LogRHI: Error: Present Fail Count 1
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SyncInterval 0
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.BufferDesc.Width 532
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.BufferDesc.Height 90
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000F05AA
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.05.10-14.35.27:848][440]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.05.10-14.35.27:850][440]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:360 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2022.05.10-14.35.27:850][440]LogD3D11RHI: [Aftermath] GDynamicRHI=0000027AC983BF80, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2022.05.10-14.35.27:850][440]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.05.10-14.35.29:415][440]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.05.10-14.35.29:415][440]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.05.10-14.35.29:415][440]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.05.10-14.35.29:415][440]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.05.10-14.35.29:415][440]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.05.10-14.35.29:415][440]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2022.05.10-14.35.29:420][440]Log file closed, 05/10/22 15:35:29
