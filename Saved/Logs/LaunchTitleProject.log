@@ -2397,3 +2397,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.12-21.03.48:795][177]LogFileHelpers: Saving map 'Basement_Area' took 0.087
 [2022.05.12-21.03.48:808][177]AssetCheck: New page: Asset Save: Basement_Area
 [2022.05.12-21.03.48:808][177]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Sub-Levels/Basement_Area.Basement_Area
+[2022.05.12-21.09.22:338][230]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box85)
+[2022.05.12-21.09.23:702][292]LogRenderer: Reallocating scene render targets to support 1572x856 Format 10 NumSamples 1 (Frame:158121).
+[2022.05.12-21.09.23:798][293]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:158123).
+[2022.05.12-21.13.47:811][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.05.12-21.13.47:892][553]LogSavePackage: Moving '../../../../LaunchTitleProject/LaunchTitleProject/Saved/Basement_Area_Auto3243021AB4010BF9898B0D4A4688CE0B3.tmp' to '../../../../LaunchTitleProject/LaunchTitleProject/Saved/Autosaves/Game/FirstPersonBP/Maps/Sub-Levels/Basement_Area_Auto3.umap'
+[2022.05.12-21.13.47:896][553]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/Persistent_Level' took 0.108
+[2022.05.12-21.13.47:897][553]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.108
